@@ -1,1 +1,1 @@
-# Linear_Poly_Regression_regularization_cross_validation
+Linear and Polynomial Regression, regularization and cross-validation
